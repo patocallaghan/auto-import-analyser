@@ -1,0 +1,53 @@
+{
+  "outputFile": "/Users/patocallaghan/hacking/auto-import-analyser/tmp/source_map_concat-output_path-pBvBtxUn.tmp/assets/tests.js",
+  "files": [
+    {
+      "relativePath": "vendor/ember-cli/tests-prefix.js",
+      "sizes": {
+        "raw": 14,
+        "uglified": 13,
+        "compressed": 5.425660377358491
+      }
+    },
+    {
+      "relativePath": "auto-import-analyser/tests/app.lint-test.js",
+      "sizes": {
+        "raw": 565,
+        "uglified": 434,
+        "compressed": 181.13358490566037
+      }
+    },
+    {
+      "relativePath": "auto-import-analyser/tests/test-helper.js",
+      "sizes": {
+        "raw": 351,
+        "uglified": 256,
+        "compressed": 106.84377358490565
+      }
+    },
+    {
+      "relativePath": "auto-import-analyser/tests/tests.lint-test.js",
+      "sizes": {
+        "raw": 267,
+        "uglified": 215,
+        "compressed": 89.73207547169811
+      }
+    },
+    {
+      "relativePath": "vendor/ember-cli/app-config.js",
+      "sizes": {
+        "raw": 543,
+        "uglified": 366,
+        "compressed": 152.75320754716984
+      }
+    },
+    {
+      "relativePath": "vendor/ember-cli/tests-suffix.js",
+      "sizes": {
+        "raw": 86,
+        "uglified": 80,
+        "compressed": 33.38867924528302
+      }
+    }
+  ]
+}

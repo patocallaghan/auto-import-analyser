@@ -1,0 +1,11 @@
+{
+  "outputFile": "/Users/patocallaghan/hacking/auto-import-analyser/tmp/source_map_concat-output_path-pBvBtxUn.tmp/assets/tests.js",
+  "sizes": {
+    "vendor/ember-cli/tests-prefix.js": 14,
+    "auto-import-analyser/tests/app.lint-test.js": 565,
+    "auto-import-analyser/tests/test-helper.js": 351,
+    "auto-import-analyser/tests/tests.lint-test.js": 267,
+    "vendor/ember-cli/app-config.js": 543,
+    "vendor/ember-cli/tests-suffix.js": 86
+  }
+}

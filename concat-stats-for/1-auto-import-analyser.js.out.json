@@ -1,0 +1,149 @@
+{
+  "outputFile": "/Users/patocallaghan/hacking/auto-import-analyser/tmp/source_map_concat-output_path-8HLjBMLn.tmp/assets/auto-import-analyser.js",
+  "files": [
+    {
+      "relativePath": "vendor/ember-cli/app-prefix.js",
+      "sizes": {
+        "raw": 16,
+        "uglified": 13,
+        "compressed": 3.5605095541401273
+      }
+    },
+    {
+      "relativePath": "auto-import-analyser/app.js",
+      "sizes": {
+        "raw": 662,
+        "uglified": 447,
+        "compressed": 122.4267515923567
+      }
+    },
+    {
+      "relativePath": "auto-import-analyser/components/welcome-page.js",
+      "sizes": {
+        "raw": 378,
+        "uglified": 273,
+        "compressed": 74.77070063694268
+      }
+    },
+    {
+      "relativePath": "auto-import-analyser/helpers/app-version.js",
+      "sizes": {
+        "raw": 1107,
+        "uglified": 517,
+        "compressed": 141.59872611464968
+      }
+    },
+    {
+      "relativePath": "auto-import-analyser/helpers/pluralize.js",
+      "sizes": {
+        "raw": 267,
+        "uglified": 198,
+        "compressed": 54.22929936305732
+      }
+    },
+    {
+      "relativePath": "auto-import-analyser/helpers/singularize.js",
+      "sizes": {
+        "raw": 275,
+        "uglified": 202,
+        "compressed": 55.324840764331206
+      }
+    },
+    {
+      "relativePath": "auto-import-analyser/initializers/app-version.js",
+      "sizes": {
+        "raw": 572,
+        "uglified": 364,
+        "compressed": 99.69426751592357
+      }
+    },
+    {
+      "relativePath": "auto-import-analyser/initializers/container-debug-adapter.js",
+      "sizes": {
+        "raw": 581,
+        "uglified": 431,
+        "compressed": 118.04458598726114
+      }
+    },
+    {
+      "relativePath": "auto-import-analyser/initializers/ember-data.js",
+      "sizes": {
+        "raw": 332,
+        "uglified": 237,
+        "compressed": 64.91082802547771
+      }
+    },
+    {
+      "relativePath": "auto-import-analyser/initializers/export-application-global.js",
+      "sizes": {
+        "raw": 1390,
+        "uglified": 708,
+        "compressed": 193.9108280254777
+      }
+    },
+    {
+      "relativePath": "auto-import-analyser/instance-initializers/ember-data.js",
+      "sizes": {
+        "raw": 352,
+        "uglified": 242,
+        "compressed": 66.28025477707007
+      }
+    },
+    {
+      "relativePath": "auto-import-analyser/resolver.js",
+      "sizes": {
+        "raw": 243,
+        "uglified": 166,
+        "compressed": 45.46496815286624
+      }
+    },
+    {
+      "relativePath": "auto-import-analyser/router.js",
+      "sizes": {
+        "raw": 418,
+        "uglified": 290,
+        "compressed": 79.4267515923567
+      }
+    },
+    {
+      "relativePath": "auto-import-analyser/services/ajax.js",
+      "sizes": {
+        "raw": 336,
+        "uglified": 245,
+        "compressed": 67.10191082802548
+      }
+    },
+    {
+      "relativePath": "auto-import-analyser/templates/application.js",
+      "sizes": {
+        "raw": 467,
+        "uglified": 386,
+        "compressed": 105.71974522292993
+      }
+    },
+    {
+      "relativePath": "vendor/ember-cli/app-suffix.js",
+      "sizes": {
+        "raw": 1,
+        "uglified": 0,
+        "compressed": 0
+      }
+    },
+    {
+      "relativePath": "vendor/ember-cli/app-config.js",
+      "sizes": {
+        "raw": 543,
+        "uglified": 366,
+        "compressed": 100.2420382165605
+      }
+    },
+    {
+      "relativePath": "vendor/ember-cli/app-boot.js",
+      "sizes": {
+        "raw": 180,
+        "uglified": 121,
+        "compressed": 33.140127388535035
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "outputFile": "/Users/patocallaghan/hacking/auto-import-analyser/tmp/source_map_concat-output_path-8HLjBMLn.tmp/assets/auto-import-analyser.js",
+  "sizes": {
+    "vendor/ember-cli/app-prefix.js": 16,
+    "auto-import-analyser/app.js": 662,
+    "auto-import-analyser/components/welcome-page.js": 378,
+    "auto-import-analyser/helpers/app-version.js": 1107,
+    "auto-import-analyser/helpers/pluralize.js": 267,
+    "auto-import-analyser/helpers/singularize.js": 275,
+    "auto-import-analyser/initializers/app-version.js": 572,
+    "auto-import-analyser/initializers/container-debug-adapter.js": 581,
+    "auto-import-analyser/initializers/ember-data.js": 332,
+    "auto-import-analyser/initializers/export-application-global.js": 1390,
+    "auto-import-analyser/instance-initializers/ember-data.js": 352,
+    "auto-import-analyser/resolver.js": 243,
+    "auto-import-analyser/router.js": 418,
+    "auto-import-analyser/services/ajax.js": 336,
+    "auto-import-analyser/templates/application.js": 467,
+    "vendor/ember-cli/app-suffix.js": 1,
+    "vendor/ember-cli/app-config.js": 543,
+    "vendor/ember-cli/app-boot.js": 180
+  }
+}

@@ -1,0 +1,573 @@
+{
+  "outputFile": "/Users/patocallaghan/hacking/auto-import-analyser/tmp/source_map_concat-output_path-DEAncaHV.tmp/assets/vendor.js",
+  "files": [
+    {
+      "relativePath": "vendor/ember-cli/vendor-prefix.js",
+      "sizes": {
+        "raw": 98,
+        "uglified": 78,
+        "compressed": 20.56902348963221
+      }
+    },
+    {
+      "relativePath": "vendor/loader/loader.js",
+      "sizes": {
+        "raw": 8964,
+        "uglified": 4323,
+        "compressed": 1139.9985710984622
+      }
+    },
+    {
+      "relativePath": "vendor/ember/jquery/jquery.js",
+      "sizes": {
+        "raw": 271751,
+        "uglified": 87087,
+        "compressed": 22965.31472617436
+      }
+    },
+    {
+      "relativePath": "vendor/ember/ember.debug.js",
+      "sizes": {
+        "raw": 1781253,
+        "uglified": 552965,
+        "compressed": 145819.8727428779
+      }
+    },
+    {
+      "relativePath": "vendor/ember-cli-shims/deprecations.js",
+      "sizes": {
+        "raw": 6555,
+        "uglified": 6211,
+        "compressed": 1637.8744217193034
+      }
+    },
+    {
+      "relativePath": "vendor/ember-cli-shims/app-shims.js",
+      "sizes": {
+        "raw": 8664,
+        "uglified": 5045,
+        "compressed": 1330.3938910922373
+      }
+    },
+    {
+      "relativePath": "vendor/ember-resolver/legacy-shims.js",
+      "sizes": {
+        "raw": 511,
+        "uglified": 353,
+        "compressed": 93.08801656205347
+      }
+    },
+    {
+      "relativePath": "addon-tree-output/@ember/ordered-set/index.js",
+      "sizes": {
+        "raw": 3563,
+        "uglified": 181,
+        "compressed": 47.7306827131209
+      }
+    },
+    {
+      "relativePath": "addon-tree-output/ember-ajax/-private/promise.js",
+      "sizes": {
+        "raw": 671,
+        "uglified": 237,
+        "compressed": 62.498186756959406
+      }
+    },
+    {
+      "relativePath": "addon-tree-output/ember-ajax/-private/utils/get-header.js",
+      "sizes": {
+        "raw": 704,
+        "uglified": 279,
+        "compressed": 73.5738147898383
+      }
+    },
+    {
+      "relativePath": "addon-tree-output/ember-ajax/-private/utils/is-fastboot.js",
+      "sizes": {
+        "raw": 283,
+        "uglified": 184,
+        "compressed": 48.52179900118368
+      }
+    },
+    {
+      "relativePath": "addon-tree-output/ember-ajax/-private/utils/is-string.js",
+      "sizes": {
+        "raw": 274,
+        "uglified": 181,
+        "compressed": 47.7306827131209
+      }
+    },
+    {
+      "relativePath": "addon-tree-output/ember-ajax/-private/utils/parse-response-headers.js",
+      "sizes": {
+        "raw": 680,
+        "uglified": 321,
+        "compressed": 84.64944282271718
+      }
+    },
+    {
+      "relativePath": "addon-tree-output/ember-ajax/-private/utils/url-helpers.js",
+      "sizes": {
+        "raw": 2283,
+        "uglified": 764,
+        "compressed": 201.47094802665396
+      }
+    },
+    {
+      "relativePath": "addon-tree-output/ember-ajax/ajax-request.js",
+      "sizes": {
+        "raw": 270,
+        "uglified": 197,
+        "compressed": 51.949969582789045
+      }
+    },
+    {
+      "relativePath": "addon-tree-output/ember-ajax/errors.js",
+      "sizes": {
+        "raw": 7549,
+        "uglified": 2170,
+        "compressed": 572.2407816987424
+      }
+    },
+    {
+      "relativePath": "addon-tree-output/ember-ajax/index.js",
+      "sizes": {
+        "raw": 318,
+        "uglified": 221,
+        "compressed": 58.27889988729127
+      }
+    },
+    {
+      "relativePath": "addon-tree-output/ember-ajax/mixins/ajax-request.js",
+      "sizes": {
+        "raw": 23793,
+        "uglified": 5511,
+        "compressed": 1453.280621171322
+      }
+    },
+    {
+      "relativePath": "addon-tree-output/ember-ajax/mixins/ajax-support.js",
+      "sizes": {
+        "raw": 915,
+        "uglified": 447,
+        "compressed": 117.87632692135382
+      }
+    },
+    {
+      "relativePath": "addon-tree-output/ember-ajax/mixins/legacy/normalize-error-response.js",
+      "sizes": {
+        "raw": 2948,
+        "uglified": 742,
+        "compressed": 195.66942858086026
+      }
+    },
+    {
+      "relativePath": "addon-tree-output/ember-ajax/raw.js",
+      "sizes": {
+        "raw": 524,
+        "uglified": 202,
+        "compressed": 53.26849672956034
+      }
+    },
+    {
+      "relativePath": "addon-tree-output/ember-ajax/request.js",
+      "sizes": {
+        "raw": 677,
+        "uglified": 210,
+        "compressed": 55.378140164394416
+      }
+    },
+    {
+      "relativePath": "addon-tree-output/ember-ajax/services/ajax.js",
+      "sizes": {
+        "raw": 272,
+        "uglified": 199,
+        "compressed": 52.477380441497566
+      }
+    },
+    {
+      "relativePath": "addon-tree-output/ember-ajax/utils/ajax.js",
+      "sizes": {
+        "raw": 275,
+        "uglified": 200,
+        "compressed": 52.741085870851826
+      }
+    },
+    {
+      "relativePath": "addon-tree-output/ember-cli-app-version/initializer-factory.js",
+      "sizes": {
+        "raw": 545,
+        "uglified": 283,
+        "compressed": 74.62863650725532
+      }
+    },
+    {
+      "relativePath": "addon-tree-output/ember-cli-app-version/utils/regexp.js",
+      "sizes": {
+        "raw": 682,
+        "uglified": 250,
+        "compressed": 65.92635733856477
+      }
+    },
+    {
+      "relativePath": "addon-tree-output/ember-data/-debug/index.js",
+      "sizes": {
+        "raw": 2461,
+        "uglified": 602,
+        "compressed": 158.750668471264
+      }
+    },
+    {
+      "relativePath": "addon-tree-output/ember-data/-private.js",
+      "sizes": {
+        "raw": 422650,
+        "uglified": 120273,
+        "compressed": 31716.643104724808
+      }
+    },
+    {
+      "relativePath": "addon-tree-output/ember-data/adapter.js",
+      "sizes": {
+        "raw": 19596,
+        "uglified": 556,
+        "compressed": 146.62021872096807
+      }
+    },
+    {
+      "relativePath": "addon-tree-output/ember-data/adapters/errors.js",
+      "sizes": {
+        "raw": 1811,
+        "uglified": 1214,
+        "compressed": 320.13839123607056
+      }
+    },
+    {
+      "relativePath": "addon-tree-output/ember-data/adapters/json-api.js",
+      "sizes": {
+        "raw": 6714,
+        "uglified": 885,
+        "compressed": 233.37930497851931
+      }
+    },
+    {
+      "relativePath": "addon-tree-output/ember-data/adapters/rest.js",
+      "sizes": {
+        "raw": 37830,
+        "uglified": 6257,
+        "compressed": 1650.0048714695993
+      }
+    },
+    {
+      "relativePath": "addon-tree-output/ember-data/attr.js",
+      "sizes": {
+        "raw": 3965,
+        "uglified": 896,
+        "compressed": 236.28006470141617
+      }
+    },
+    {
+      "relativePath": "addon-tree-output/ember-data/index.js",
+      "sizes": {
+        "raw": 3743,
+        "uglified": 2460,
+        "compressed": 648.7153562114775
+      }
+    },
+    {
+      "relativePath": "addon-tree-output/ember-data/initialize-store-service.js",
+      "sizes": {
+        "raw": 726,
+        "uglified": 205,
+        "compressed": 54.05961301762312
+      }
+    },
+    {
+      "relativePath": "addon-tree-output/ember-data/model.js",
+      "sizes": {
+        "raw": 317,
+        "uglified": 220,
+        "compressed": 58.01519445793701
+      }
+    },
+    {
+      "relativePath": "addon-tree-output/ember-data/relationships.js",
+      "sizes": {
+        "raw": 465,
+        "uglified": 318,
+        "compressed": 83.8583265346544
+      }
+    },
+    {
+      "relativePath": "addon-tree-output/ember-data/serializer.js",
+      "sizes": {
+        "raw": 3899,
+        "uglified": 209,
+        "compressed": 55.114434735040156
+      }
+    },
+    {
+      "relativePath": "addon-tree-output/ember-data/serializers/embedded-records-mixin.js",
+      "sizes": {
+        "raw": 16998,
+        "uglified": 4593,
+        "compressed": 1211.1990370241122
+      }
+    },
+    {
+      "relativePath": "addon-tree-output/ember-data/serializers/json-api.js",
+      "sizes": {
+        "raw": 18777,
+        "uglified": 6212,
+        "compressed": 1638.1381271486575
+      }
+    },
+    {
+      "relativePath": "addon-tree-output/ember-data/serializers/json.js",
+      "sizes": {
+        "raw": 45249,
+        "uglified": 7554,
+        "compressed": 1992.0308133420733
+      }
+    },
+    {
+      "relativePath": "addon-tree-output/ember-data/serializers/rest.js",
+      "sizes": {
+        "raw": 24249,
+        "uglified": 3421,
+        "compressed": 902.1362738209205
+      }
+    },
+    {
+      "relativePath": "addon-tree-output/ember-data/setup-container.js",
+      "sizes": {
+        "raw": 3316,
+        "uglified": 1354,
+        "compressed": 357.05715134566685
+      }
+    },
+    {
+      "relativePath": "addon-tree-output/ember-data/store.js",
+      "sizes": {
+        "raw": 317,
+        "uglified": 220,
+        "compressed": 58.01519445793701
+      }
+    },
+    {
+      "relativePath": "addon-tree-output/ember-data/transform.js",
+      "sizes": {
+        "raw": 339,
+        "uglified": 238,
+        "compressed": 62.761892186313666
+      }
+    },
+    {
+      "relativePath": "addon-tree-output/ember-data/transforms/boolean.js",
+      "sizes": {
+        "raw": 901,
+        "uglified": 421,
+        "compressed": 111.0199857581431
+      }
+    },
+    {
+      "relativePath": "addon-tree-output/ember-data/transforms/date.js",
+      "sizes": {
+        "raw": 1123,
+        "uglified": 467,
+        "compressed": 123.150435508439
+      }
+    },
+    {
+      "relativePath": "addon-tree-output/ember-data/transforms/number.js",
+      "sizes": {
+        "raw": 1547,
+        "uglified": 425,
+        "compressed": 112.07480747556012
+      }
+    },
+    {
+      "relativePath": "addon-tree-output/ember-data/transforms/string.js",
+      "sizes": {
+        "raw": 476,
+        "uglified": 282,
+        "compressed": 74.36493107790106
+      }
+    },
+    {
+      "relativePath": "addon-tree-output/ember-data/transforms/transform.js",
+      "sizes": {
+        "raw": 1235,
+        "uglified": 194,
+        "compressed": 51.15885329472627
+      }
+    },
+    {
+      "relativePath": "addon-tree-output/ember-data/version.js",
+      "sizes": {
+        "raw": 183,
+        "uglified": 134,
+        "compressed": 35.33652753347072
+      }
+    },
+    {
+      "relativePath": "addon-tree-output/ember-inflector/index.js",
+      "sizes": {
+        "raw": 1491,
+        "uglified": 1092,
+        "compressed": 287.96632885485093
+      }
+    },
+    {
+      "relativePath": "addon-tree-output/ember-inflector/lib/ext/string.js",
+      "sizes": {
+        "raw": 1264,
+        "uglified": 745,
+        "compressed": 196.46054486892302
+      }
+    },
+    {
+      "relativePath": "addon-tree-output/ember-inflector/lib/helpers/pluralize.js",
+      "sizes": {
+        "raw": 548,
+        "uglified": 344,
+        "compressed": 90.71466769786514
+      }
+    },
+    {
+      "relativePath": "addon-tree-output/ember-inflector/lib/helpers/singularize.js",
+      "sizes": {
+        "raw": 392,
+        "uglified": 267,
+        "compressed": 70.40934963758718
+      }
+    },
+    {
+      "relativePath": "addon-tree-output/ember-inflector/lib/system.js",
+      "sizes": {
+        "raw": 671,
+        "uglified": 450,
+        "compressed": 118.6674432094166
+      }
+    },
+    {
+      "relativePath": "addon-tree-output/ember-inflector/lib/system/inflections.js",
+      "sizes": {
+        "raw": 1803,
+        "uglified": 1608,
+        "compressed": 424.03833040164864
+      }
+    },
+    {
+      "relativePath": "addon-tree-output/ember-inflector/lib/system/inflector.js",
+      "sizes": {
+        "raw": 8358,
+        "uglified": 2899,
+        "compressed": 764.4820396979972
+      }
+    },
+    {
+      "relativePath": "addon-tree-output/ember-inflector/lib/system/string.js",
+      "sizes": {
+        "raw": 538,
+        "uglified": 349,
+        "compressed": 92.03319484463643
+      }
+    },
+    {
+      "relativePath": "addon-tree-output/ember-inflector/lib/utils/make-helper.js",
+      "sizes": {
+        "raw": 483,
+        "uglified": 286,
+        "compressed": 75.41975279531812
+      }
+    },
+    {
+      "relativePath": "addon-tree-output/ember-load-initializers/index.js",
+      "sizes": {
+        "raw": 2047,
+        "uglified": 763,
+        "compressed": 201.2072425972997
+      }
+    },
+    {
+      "relativePath": "addon-tree-output/ember-resolver/features.js",
+      "sizes": {
+        "raw": 239,
+        "uglified": 62,
+        "compressed": 16.349736619964066
+      }
+    },
+    {
+      "relativePath": "addon-tree-output/ember-resolver/index.js",
+      "sizes": {
+        "raw": 336,
+        "uglified": 239,
+        "compressed": 63.02559761566793
+      }
+    },
+    {
+      "relativePath": "addon-tree-output/ember-resolver/resolver.js",
+      "sizes": {
+        "raw": 339,
+        "uglified": 242,
+        "compressed": 63.81671390373071
+      }
+    },
+    {
+      "relativePath": "addon-tree-output/ember-resolver/resolvers/classic/container-debug-adapter.js",
+      "sizes": {
+        "raw": 2947,
+        "uglified": 816,
+        "compressed": 215.18363035307544
+      }
+    },
+    {
+      "relativePath": "addon-tree-output/ember-resolver/resolvers/classic/index.js",
+      "sizes": {
+        "raw": 14162,
+        "uglified": 6047,
+        "compressed": 1594.6267313052049
+      }
+    },
+    {
+      "relativePath": "addon-tree-output/ember-resolver/utils/class-factory.js",
+      "sizes": {
+        "raw": 440,
+        "uglified": 215,
+        "compressed": 56.696667311165704
+      }
+    },
+    {
+      "relativePath": "addon-tree-output/ember-resolver/utils/make-dictionary.js",
+      "sizes": {
+        "raw": 351,
+        "uglified": 219,
+        "compressed": 57.75148902858275
+      }
+    },
+    {
+      "relativePath": "addon-tree-output/ember-welcome-page/components/welcome-page.js",
+      "sizes": {
+        "raw": 478,
+        "uglified": 345,
+        "compressed": 90.9783731272194
+      }
+    },
+    {
+      "relativePath": "addon-tree-output/ember-welcome-page/templates/components/welcome-page.js",
+      "sizes": {
+        "raw": 3023,
+        "uglified": 2772,
+        "compressed": 730.9914501700063
+      }
+    },
+    {
+      "relativePath": "vendor/ember-cli/vendor-suffix.js",
+      "sizes": {
+        "raw": 1,
+        "uglified": 0,
+        "compressed": 0
+      }
+    }
+  ]
+}

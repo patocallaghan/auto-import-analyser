@@ -1,0 +1,29 @@
+{
+  "outputFile": "/app.lint-test.js",
+  "files": [
+    {
+      "relativePath": "app.lint-test.js",
+      "sizes": {
+        "raw": 166,
+        "uglified": 136,
+        "compressed": 64.24539877300613
+      }
+    },
+    {
+      "relativePath": "resolver.lint-test.js",
+      "sizes": {
+        "raw": 126,
+        "uglified": 97,
+        "compressed": 45.82208588957055
+      }
+    },
+    {
+      "relativePath": "router.lint-test.js",
+      "sizes": {
+        "raw": 122,
+        "uglified": 93,
+        "compressed": 43.93251533742332
+      }
+    }
+  ]
+}
